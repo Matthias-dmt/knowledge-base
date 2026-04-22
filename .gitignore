@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# environment
+.env
+.env.local
+.env.*.local
+
+# Docusaurus build output
+build/
+.docusaurus/
+
+# misc
+.DS_Store
